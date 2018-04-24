@@ -1,10 +1,9 @@
 {
   "name": "docstring-generator-solidity",
   "main": "./lib/docstring-generator-solidity",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Generate simple docstring for solidity code. Tracking kekwords: pragma, contract and function.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "docstring-generator-solidity:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.26.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
