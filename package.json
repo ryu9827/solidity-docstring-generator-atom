@@ -1,0 +1,18 @@
+{
+  "name": "docstring-generator-solidity",
+  "main": "./lib/docstring-generator-solidity",
+  "version": "1.0.0",
+  "description": "Generate simple docstring for solidity code.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "docstring-generator-solidity:toggle"
+  },
+  "repository": "https://github.com/ryu9827/solidity-docstring-generator-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.19.0"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle docstring-generator-solidity",
+        "command": "docstring-generator-solidity:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "docstring-generator-solidity",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "docstring-generator-solidity:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
