@@ -2,7 +2,7 @@
   "name": "docstring-generator-solidity",
   "main": "./lib/docstring-generator-solidity",
   "version": "1.0.0",
-  "description": "Generate simple docstring for solidity code.",
+  "description": "Generate simple docstring for solidity code. Tracking kekwords: pragma, contract and function.",
   "keywords": [
   ],
   "activationCommands": {
