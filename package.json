@@ -11,7 +11,7 @@
   "repository": "https://github.com/ryu9827/solidity-docstring-generator-atom",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.19.0"
+    "atom": ">=1.26.0"
   },
   "dependencies": {
   }
